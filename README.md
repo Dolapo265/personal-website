@@ -1,0 +1,1 @@
+This project is a simple JavaScript theme customizer where you tweak a few function calls and instantly change how a webpage looks. You can change the color palette using “fruit” themes, switch between light and dark mode, adjust fonts based on movie genres, and change how images look with different styles, all powered by CSS variables behind the scenes. 
